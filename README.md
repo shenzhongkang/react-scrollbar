@@ -1,5 +1,8 @@
 # react-scrollbar
-Customize React scrollbar component, display when scrolling, hide after scroll end. 
+Customize React scrollbar component, display when scrolling, hide after scroll end.
+
+![image](https://github.com/user-attachments/assets/dd72021e-bfcb-4bfe-a760-05d9a13880f0)
+
 
 ## Usage
 
