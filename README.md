@@ -20,5 +20,6 @@ export const App () => {
 ```
 
 - When `ref` container is scrolling, `Scrollbar` will display.
-- When `ref` container height changed, `Scrollbar` will auto-resize.\
+- When `ref` container height changed, `Scrollbar` will auto-resize.
 - You can drag and scroll with scrollbar thumb.
+- You can listen container's hover status and active scrollbar with it.
